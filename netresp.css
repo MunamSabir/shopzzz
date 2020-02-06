@@ -1,0 +1,192 @@
+.bigimg {
+  background-image: url("img/cart.png");
+  background-size: 100% 100%;
+  width: 100%;
+  height: 658px;
+}
+.navbar {
+  background: linear-gradient(to top right, #222420, #9e9ca1);
+}
+.setting {
+  padding-top: 250px;
+  box-sizing: border-box;
+}
+h2,
+h1 {
+  color: #000000;
+}
+.setting h2 {
+  font-size: 42px;
+}
+
+.setting h1 {
+  font-size: 20px;
+}
+
+.servicessetting {
+  padding: 100px 0px 60px;
+  height: 700px;
+}
+.rowsetting {
+  padding: 1rem;
+}
+
+.portfolio {
+  padding: 100px 0px 50px;
+  width: 100%;
+}
+.card {
+  margin-top: 50px;
+}
+
+.teamsection {
+  height: 700px;
+  padding: 100px 0px 50px;
+  width: 100%;
+
+  background-color: rgb(235, 245, 244);
+}
+
+.teamrow {
+  margin-top: 60px;
+}
+
+.cart-item {
+  width: 45%;
+}
+
+.cart-price {
+  width: 20%;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.cart-quantity {
+  width: 35%;
+}
+
+.cart-item-title {
+  color: #333;
+  margin-left: 0.5em;
+  font-size: 1.2em;
+}
+
+.shop-items {
+  background-color: rgb(223, 241, 239);
+}
+.content-section {
+  background-color: rgb(218, 238, 255);
+}
+
+#productsection {
+  background-color: rgb(235, 245, 244);
+}
+#aboutsection {
+  background-color: rgb(235, 245, 244);
+}
+#servicesection {
+  background-color: rgb(235, 245, 244);
+}
+
+.cart-item-image {
+  width: 75px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.btn-danger {
+  color: rgb(27, 26, 26);
+  background-color: #d1a4a4;
+  border: none;
+  border-radius: 0.3em;
+  font-weight: bold;
+}
+
+.btn-danger:hover {
+  background-color: #cc4c4c;
+}
+
+.cart-quantity-input {
+  height: 34px;
+  width: 50px;
+  border-radius: 5px;
+  border: 1px solid #56ccf2;
+  background-color: rgb(199, 184, 184);
+  color: #333;
+  padding: 0;
+  text-align: center;
+  font-size: 1.2em;
+  margin-right: 25px;
+}
+
+.cart-total {
+  text-align: end;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.cart-total-title {
+  font-weight: bold;
+  font: size 40;
+  color: black;
+  margin-right: 20px;
+}
+
+.cart-total-price {
+  color: #333;
+  font-size: 1.1em;
+}
+
+.btn-purchase {
+  display: block;
+  margin: 40px auto 80px auto;
+  font: size 20;
+}
+
+.footer {
+  line-height: 50px;
+  margin-top: 60px;
+}
+.cart-row {
+  display: flex;
+}
+
+@media (min-width: 992px) {
+}
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+@media (min-width: 575px) and (max-width: 767px) {
+}
+
+@media (min-width: 480px) and (max-width: 574px) {
+}
+@media (max-width: 479px) {
+}
+
+/* Below line is used for online Google font */
+
+h2 {
+  text-align: center;
+  font-size: 24px;
+}
+
+label {
+  color: #464646;
+  font-size: 14px;
+  font-weight: bold;
+}
+#register {
+  font-size: 20px;
+  margin-top: 15px;
+  background: linear-gradient(#19252b 5%, #324246 100%);
+  padding: 7px 35px;
+  color: white;
+  font-weight: bold;
+  border-radius: 2px;
+  cursor: pointer;
+  width: 100%;
+}
+#register:hover {
+  background: linear-gradient(#0a252c 5%, #014666 100%);
+}
